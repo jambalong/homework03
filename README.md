@@ -23,7 +23,7 @@ git clone https://github.com/jambalong/homework03
 2. Change directory
 
 ```bash
-cd homework04/
+cd homework03/
 ```
 
 3. Install dependencies
