@@ -1,6 +1,6 @@
 # Testing Homework
 
-This project is an ESLint configuration that fixes all the issues with the existing source that was provided.
+This project is to test certain functions in source using Jest and add code coverage.
 
 ## What to test
 
